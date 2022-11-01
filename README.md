@@ -1,4 +1,4 @@
-<h1 align="center">365g<br><sup>Project 365 (G)</sup><br>2022/10/26 - Present</h1>
+<h1 align="center">365g<br><sup>Project 365 (G)</sup><br>2022/10/31 - Present</h1>
 <p align="center">365 is a project where I record one to several notes of my life for every single day that exists.</p>
 
 This is the public, global version of project 365 - originally a personal/private project.
